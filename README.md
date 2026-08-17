@@ -1,6 +1,6 @@
 # Hi, I'm Raghuveer 👋
 
-### Full Stack Engineer | TypeScript • React • Next.js • React Native • Fastify
+### Full Stack Engineer | TypeScript • React • Next.js • React Native • Fastify • Prisma • PostgreSQL
 
 I build production-ready SaaS products and full-stack applications with a focus on scalable architecture, clean APIs, and practical AI-assisted development.
 
